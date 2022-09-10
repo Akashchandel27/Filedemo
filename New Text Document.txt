@@ -1,6 +1,8 @@
+// Hello i am team mate-1
+
 INDIA
 PAKSITAN
 SL
 AFG
 HK
-BANG
+// remove bangladesh
