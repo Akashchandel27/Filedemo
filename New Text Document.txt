@@ -4,5 +4,5 @@ INDIA
 PAKSITAN
 SL
 AFG
-HK
+// remove hk
 // remove bangladesh
